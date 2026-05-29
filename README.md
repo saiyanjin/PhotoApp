@@ -1,4 +1,4 @@
-# PhotoApp
+# Photo App
 
 Projet **Photo App**
 
